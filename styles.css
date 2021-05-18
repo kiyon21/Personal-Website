@@ -31,10 +31,10 @@ header h1 {
 }
 
 header img {
-    width: 100px;
+    width: 90px;
     height: auto;
     display: inline-block;
-    border-radius: 50%;
+    border-radius: 100%;
     padding: 3px;
     position: relative;
     top: 10px;
@@ -119,7 +119,7 @@ nav {
     background-color: #4b4b4b;
     padding: 15px;
     position: sticky;
-    top: 95px;
+    top: 114px;
     text-align: center;
     margin:0 auto;
     z-index: 1;
@@ -131,6 +131,8 @@ nav ul {
     max-width: 1200px;
     margin: 0 auto;
 }
+
+
 nav li {
     width:25%;
     display: inline-block;
